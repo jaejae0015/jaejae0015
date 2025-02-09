@@ -8,35 +8,19 @@
 ## 🛠 Tech Stack
 
 ### 📌 Frontend  
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)  
-![Razor](https://img.shields.io/badge/Razor-512BD4?style=flat&logo=razor&logoColor=white)  
-![Nexacro](https://img.shields.io/badge/Nexacro-008FCC?style=flat)  
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)  
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)  ![Razor](https://img.shields.io/badge/Razor-512BD4?style=flat&logo=razor&logoColor=white)  ![Nexacro](https://img.shields.io/badge/Nexacro-008FCC?style=flat)  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)  ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)  
 
 ### 📌 Backend  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
 
 ### 📌 Database  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
 - **프로시저/함수 및 배치 수행 가능**  
 
 ---
 
 ## 📚 Studying
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-
----
-
-## 🏆 Algorithm (Solved.ac)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=여기에_백준_아이디)](https://solved.ac/여기에_백준_아이디)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
 
 ---
 
