@@ -3,6 +3,10 @@
 안녕하세요! 개발을 좋아하는 jaejae0015입니다.  
 다양한 기술을 경험하고 배우는 것을 즐기며, 현재는 **Docker, Vue, AWS**를 공부하고 있습니다.  
 
+- 풀스택 개발자로 다양한 프론트/백엔드 언어를 사용하며, 여러 DB도 사용경험이 있습니다.
+- 웹서비스를 위주로 개발하였으며 현재 5년차 개발자로 현업에서 일하고 있습니다.(2020.12~현재)
+- 주어진 업무를 이해하고 그안에서 저만의 가치를 찾아 누구보다 열심히 일하는 개발자입니다:)
+
 ---
 
 ## 🛠 Tech Stack
@@ -25,7 +29,6 @@
 ---
 
 ## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:salangae00@naver.com)  
-[![Blog](https://img.shields.io/badge/Blog-21759B?style=flat&logo=wordpress&logoColor=white)](https://jaejae0015.github.io/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:salangae00@naver.com)  [![Blog](https://img.shields.io/badge/Blog-21759B?style=flat&logo=wordpress&logoColor=white)](https://jaejae0015.github.io/) 
 
 🚀 꾸준히 성장하는 개발자가 되겠습니다! 감사합니다. 😃
